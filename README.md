@@ -1,3 +1,3 @@
 # Germline-Copy-Number-Variants
 
-https://evodify.com/gatk-cnv-snakemake/
+[Call germline Copy Number Variants with GATK in Snakemake](https://evodify.com/gatk-cnv-snakemake/)
